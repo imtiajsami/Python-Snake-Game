@@ -1,5 +1,5 @@
 
-# 🐍 Snake Game
+# Snake Game
 
 **Name:** Imtiaj Ahmed Sami
 
